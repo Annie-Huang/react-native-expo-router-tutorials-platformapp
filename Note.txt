@@ -9,8 +9,8 @@ https://github.com/Annie-Huang/react-native-expo-router-tutorials-platformapp
 
 PS C:\react> npx create-expo-app@latest react-native-expo-router-tutorials-platformapp
 
-
-
+PS C:\react\react-native-expo-router-tutorials-platformapp> npm run reset-project
+Do you want to move existing files to /app-example instead of deleting them? (Y/n): n
 
 
 Each platform has its own quirks
