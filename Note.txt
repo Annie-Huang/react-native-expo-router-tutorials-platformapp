@@ -28,6 +28,7 @@ It's very nice that expo router will directly choose which platform that you are
 
 
 But if you want to detect the platform to do specific things, like choosing different layout, you can see it in the app/_layout.tsx page.
+E.g. in web, it will show left side nav and in iso|android devices, it will show <Tabs> view
 
 Platform.OS value:
 'ios' | 'web' | 'andriod' | 'macos' | 'windows'
