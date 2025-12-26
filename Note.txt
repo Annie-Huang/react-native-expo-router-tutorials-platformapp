@@ -17,3 +17,12 @@ Each platform has its own quirks
 - iOS loves its sleek navigation stacks
 - Andriod has those material design vibes
 - Web is all about custom layouts and URLs
+
+When you have these files and direct your page to go to
+    import About from '@/components/about';
+and
+    components/about.iso.tsx    << default iphone will go to
+    components/about.tsx        << default android device will go to
+    components/about.web.tsx    << default webpage view will go to.
+It's very nice that expo router will directly choose which platform that you are in and forward you to the corresponding component file.
+
