@@ -1,0 +1,19 @@
+Expo Router Tutorial
+(Expo Router Tutorial - 14 - Platform-specific Code)
+(https://www.youtube.com/playlist?list=PLC3y8-rFHvwgVmqbtQkPDxkvDf6w5_eGA)
+
+https://github.com/gopinav/Expo-Router-Tutorials/tree/main/PlatformApp
+https://github.com/Annie-Huang/react-native-expo-router-tutorials-platformapp
+
+--------------------------------------------------------------------------------------
+
+PS C:\react> npx create-expo-app@latest react-native-expo-router-tutorials-platformapp
+
+
+
+
+
+Each platform has its own quirks
+- iOS loves its sleek navigation stacks
+- Andriod has those material design vibes
+- Web is all about custom layouts and URLs
